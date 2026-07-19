@@ -9,5 +9,8 @@ A collection of rainmeter widgets for my personal use in Windows 11
 - Playing - Displays the game that I'm currently playing
 - Watching - Displays the show that I'm currently watching
 
+# Screenshots
+![Widgets](./widgets.png)
+
 # AI?
 Yes a lot.
